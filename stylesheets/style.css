@@ -36,3 +36,8 @@ input[type=submit]{
     font-size: 1rem;
     text-transform: uppercase;
 }
+
+p {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
